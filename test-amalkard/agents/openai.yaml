@@ -1,0 +1,6 @@
+interface:
+  display_name: "تست عملکرد"
+  short_description: "تست عملکرد سایت، بررسی رابط و ثبت خطا با Playwright"
+  default_prompt: "با $test-amalkard عملکرد سایت را در محدوده درخواست من بررسی کن؛ سناریوها، نتایج واقعی، خطاها و شواهد را گزارش بده."
+policy:
+  allow_implicit_invocation: false

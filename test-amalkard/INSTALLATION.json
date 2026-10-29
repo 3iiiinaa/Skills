@@ -1,0 +1,17 @@
+{
+  "display_name": "تست عملکرد",
+  "name": "test-amalkard",
+  "source": "https://github.com/microsoft/playwright-cli",
+  "source_path": "skills/playwright-cli",
+  "commit": "b1a5903c5b633b8c9f843ad7b629c2a78437040c",
+  "installed_on": "2026-10-23",
+  "changes": [
+    "Renamed skill and added Persian UI metadata",
+    "Removed upstream allowed-tools declaration",
+    "Added local safety rules; original command reference and all 10 reference documents retained"
+  ],
+  "audit": "Static review of Markdown instructions and potentially sensitive command examples; no upstream executable files retained or executed.",
+  "validation": "Manual structural validation; official quick_validate.py unavailable because bundled Python has no PyYAML.",
+  "runtime": "Not installed by this operation. playwright-cli was not found on PATH.",
+  "security_limit": "Instruction-level safeguards are not a technical sandbox or a runtime security audit."
+}
