@@ -1,0 +1,427 @@
+[
+  {
+    "source": "design-md/1win/DESIGN.md",
+    "local": "references/1win/DESIGN.md",
+    "sha256": "64D02D344CB16D68B6882054F35E3BFB7241AD60DC8B7F84F6636A7D1379496A"
+  },
+  {
+    "source": "design-md/airbnb/DESIGN.md",
+    "local": "references/airbnb/DESIGN.md",
+    "sha256": "ADD34130D67209AD105346D60FE2B290728B9711683969DB4B7760E29477A5FE"
+  },
+  {
+    "source": "design-md/airtable/DESIGN.md",
+    "local": "references/airtable/DESIGN.md",
+    "sha256": "1D225E511213044D3C705BDE50265AD010932BFD8A15740A144DD4F480128889"
+  },
+  {
+    "source": "design-md/aljazeera/DESIGN.md",
+    "local": "references/aljazeera/DESIGN.md",
+    "sha256": "37614FC72658FFA30FACA01049BD1EFA8A9BAAFA4750501405EEEA66F149466A"
+  },
+  {
+    "source": "design-md/apple/DESIGN.md",
+    "local": "references/apple/DESIGN.md",
+    "sha256": "83FBC614443A9B3D7569E9956A43E7B8740F9D0F939F58B8154F7A7CEC3002B2"
+  },
+  {
+    "source": "design-md/binance/DESIGN.md",
+    "local": "references/binance/DESIGN.md",
+    "sha256": "378FF97D568CCBC316519B9D45A29D6649ED8961C9C486C3ED4CEA7501D72371"
+  },
+  {
+    "source": "design-md/bmw-m/DESIGN.md",
+    "local": "references/bmw-m/DESIGN.md",
+    "sha256": "824A1707C0A8D1609D72477D0FA211B9EBE4BDEB3E1FD701790AF7B7BB669A4A"
+  },
+  {
+    "source": "design-md/bmw/DESIGN.md",
+    "local": "references/bmw/DESIGN.md",
+    "sha256": "B7268279E7C98E85FB80890E06765F4EE8340BA1EA1CCB5A8A5B134DE43DAC3E"
+  },
+  {
+    "source": "design-md/bugatti/DESIGN.md",
+    "local": "references/bugatti/DESIGN.md",
+    "sha256": "375F0A20ADA88CDEE5E995CA7EDCFBD584DDF5F887024DEEBD1BC75BFD55B1BC"
+  },
+  {
+    "source": "design-md/cal/DESIGN.md",
+    "local": "references/cal/DESIGN.md",
+    "sha256": "8CD21B7D67E94C899843D517F4B426E4FEE33D47354A433D6A63EBCF79D5A654"
+  },
+  {
+    "source": "design-md/claude/DESIGN.md",
+    "local": "references/claude/DESIGN.md",
+    "sha256": "3D972F34F8D4F33B442FA28220CF3B7CA2F13C0A97C468E3988148F82521F9DF"
+  },
+  {
+    "source": "design-md/clay/DESIGN.md",
+    "local": "references/clay/DESIGN.md",
+    "sha256": "1ABD803A207FBE950A06E155ADCD6013C2E149B13E7B88844F5069F9D3D99EB3"
+  },
+  {
+    "source": "design-md/clickhouse/DESIGN.md",
+    "local": "references/clickhouse/DESIGN.md",
+    "sha256": "50987E29B603CC7503EBE724AF810FCF43845E96FDD4083E0FBE5FE00D2CDD2E"
+  },
+  {
+    "source": "design-md/cohere/DESIGN.md",
+    "local": "references/cohere/DESIGN.md",
+    "sha256": "1C49A5A5F88D43841D4F4AFA33831328D47A5715048700A3B75086A822575883"
+  },
+  {
+    "source": "design-md/coinbase/DESIGN.md",
+    "local": "references/coinbase/DESIGN.md",
+    "sha256": "C8C67800DD7F58FCC87ED7D267A3BBA862E3419E499E8A66D67731A69D2DE1D6"
+  },
+  {
+    "source": "design-md/composio/DESIGN.md",
+    "local": "references/composio/DESIGN.md",
+    "sha256": "E7DB886DABECCA61F29B83E8F46D7A1E8A43889D30B81BC6E48162CCAAFCBB2F"
+  },
+  {
+    "source": "design-md/cursor/DESIGN.md",
+    "local": "references/cursor/DESIGN.md",
+    "sha256": "A3DB9B3019DC2F514FDEE7CD0CA0A5232C0BD0119E23178E8EEBAF6916258D9D"
+  },
+  {
+    "source": "design-md/dell-1996/DESIGN.md",
+    "local": "references/dell-1996/DESIGN.md",
+    "sha256": "E186C614B1223FE7015670472AC6BC84B5B3FDD5DE5325B3CE5BFB7FBE9C8D6E"
+  },
+  {
+    "source": "design-md/dji/DESIGN.md",
+    "local": "references/dji/DESIGN.md",
+    "sha256": "C8A57520B87286869A88CDD2C07F21080EBDA9FB3EEE315B11D95C752582C1A9"
+  },
+  {
+    "source": "design-md/elevenlabs/DESIGN.md",
+    "local": "references/elevenlabs/DESIGN.md",
+    "sha256": "3B359ACFAAFADBB499C7ED3EEBE813A76E0BE497A7157B77DE207FE275068A66"
+  },
+  {
+    "source": "design-md/expo/DESIGN.md",
+    "local": "references/expo/DESIGN.md",
+    "sha256": "1BE7E129B6F75AFAA12318A7C51AB22F6F74A214DEC22C4827CECC519F112363"
+  },
+  {
+    "source": "design-md/ferrari/DESIGN.md",
+    "local": "references/ferrari/DESIGN.md",
+    "sha256": "1199E2832641CAC7E384AAF3B1F3DB87F992240CEA5D3D1EEE04D9DC00ACB17C"
+  },
+  {
+    "source": "design-md/figma/DESIGN.md",
+    "local": "references/figma/DESIGN.md",
+    "sha256": "716CE8431F47EB8B8135552710E3C4D538BCCCCF1202E4CEAC5428C9AADA9972"
+  },
+  {
+    "source": "design-md/framer/DESIGN.md",
+    "local": "references/framer/DESIGN.md",
+    "sha256": "A5D47DDDACF5A04577CEC0BE6FE0FC53B7402254C7686874AF3E59BCC7588CB4"
+  },
+  {
+    "source": "design-md/hashicorp/DESIGN.md",
+    "local": "references/hashicorp/DESIGN.md",
+    "sha256": "D2DF9BE72D867E48D318FD18DB04E60A78357C27E392AB921FC2BA7F46951442"
+  },
+  {
+    "source": "design-md/hp/DESIGN.md",
+    "local": "references/hp/DESIGN.md",
+    "sha256": "4C9A248046684BDDE5311A0C9881814F50E2381C2B0F3C75B02A35FC64BC8BB8"
+  },
+  {
+    "source": "design-md/ibm/DESIGN.md",
+    "local": "references/ibm/DESIGN.md",
+    "sha256": "46F6FD65B5E7524FED1133B9B3C0DD619F9A0F145FBB2B87F3675C701A88F3BD"
+  },
+  {
+    "source": "design-md/intercom/DESIGN.md",
+    "local": "references/intercom/DESIGN.md",
+    "sha256": "962BE23CD947E87A86B2FFBC0440E9D0808243A6EF3AF2AA04E8E7CC04D48BA3"
+  },
+  {
+    "source": "design-md/jobright/DESIGN.md",
+    "local": "references/jobright/DESIGN.md",
+    "sha256": "9E682194E3F846915164189538741133AB1E2779730677E92D28F873F782999B"
+  },
+  {
+    "source": "design-md/kraken/DESIGN.md",
+    "local": "references/kraken/DESIGN.md",
+    "sha256": "41BCBD5642C926A549F0D50F1151484C5776B4536233240C8415CFB79BCF1F38"
+  },
+  {
+    "source": "design-md/lamborghini/DESIGN.md",
+    "local": "references/lamborghini/DESIGN.md",
+    "sha256": "9AA68C53B481A0BEFDF72859DB5625F85454122294509989AA58414AAEE04B34"
+  },
+  {
+    "source": "design-md/linear.app/DESIGN.md",
+    "local": "references/linear.app/DESIGN.md",
+    "sha256": "30BD30E72C48A16E4BDBD010F2D1C85FAB657C6FAE3CC85389399AAB10F9CB5F"
+  },
+  {
+    "source": "design-md/lovable/DESIGN.md",
+    "local": "references/lovable/DESIGN.md",
+    "sha256": "92790895C833104072643929BA56EBBF42C8F88FFB7BFF1926462545D0ACE6C7"
+  },
+  {
+    "source": "design-md/mastercard/DESIGN.md",
+    "local": "references/mastercard/DESIGN.md",
+    "sha256": "E76CEAA187F43BD24B8338D2B2314E71E9225B36492E40F32A55782281A10437"
+  },
+  {
+    "source": "design-md/mercury/DESIGN.md",
+    "local": "references/mercury/DESIGN.md",
+    "sha256": "DABB3683422A9841369B0DB53FF13ED375B0B6F019157A5C90E9FCA165CC111F"
+  },
+  {
+    "source": "design-md/meta/DESIGN.md",
+    "local": "references/meta/DESIGN.md",
+    "sha256": "306DFAD97C006D47B134FB0DBD55FF68D3BAA526844D6EB37346373C9EF35339"
+  },
+  {
+    "source": "design-md/minimax/DESIGN.md",
+    "local": "references/minimax/DESIGN.md",
+    "sha256": "2658B96488BB629749259B152C5BA2912A0E8FEB6A03477E265879ABD9264C50"
+  },
+  {
+    "source": "design-md/mintlify/DESIGN.md",
+    "local": "references/mintlify/DESIGN.md",
+    "sha256": "754FFCF35DCD39EF8AEF450085CE936AACA5B872FF92CAA66BE99E91A5C3D5EC"
+  },
+  {
+    "source": "design-md/miro/DESIGN.md",
+    "local": "references/miro/DESIGN.md",
+    "sha256": "87C71F76297277D64F9679E015A50DA88E72D86D7B41BADF8733EAE1E4CDE335"
+  },
+  {
+    "source": "design-md/mistral.ai/DESIGN.md",
+    "local": "references/mistral.ai/DESIGN.md",
+    "sha256": "40E2C692D72C54BAE1E43446E2D059B71D773668D39D71CCB7EDEDA9FA07D145"
+  },
+  {
+    "source": "design-md/mongodb/DESIGN.md",
+    "local": "references/mongodb/DESIGN.md",
+    "sha256": "4523F10EFD5CCD46F9AEAC3B98626E24BCF907BC0C1E46500CB0E3920F932E71"
+  },
+  {
+    "source": "design-md/mydealz/DESIGN.md",
+    "local": "references/mydealz/DESIGN.md",
+    "sha256": "598698A1BD0824260D57EB21F728B79CD702916F918DE2B6F39B3720BA727872"
+  },
+  {
+    "source": "design-md/nerdwallet/DESIGN.md",
+    "local": "references/nerdwallet/DESIGN.md",
+    "sha256": "478475273BEB642F0661FB1AEF7107BAC5CDE69250794BC148B28EE2C61960C7"
+  },
+  {
+    "source": "design-md/nike/DESIGN.md",
+    "local": "references/nike/DESIGN.md",
+    "sha256": "D2A3D363665839E2DDC15C91B8A9F3E92B1962FF55A7CA5D964AB3BB88B8186C"
+  },
+  {
+    "source": "design-md/nintendo-2001/DESIGN.md",
+    "local": "references/nintendo-2001/DESIGN.md",
+    "sha256": "9630AF17090D5C39BA9D8B5915A597A96C7552EFE1422B3B8C3F31FB3E636716"
+  },
+  {
+    "source": "design-md/notion/DESIGN.md",
+    "local": "references/notion/DESIGN.md",
+    "sha256": "FA9D6E78216D8F3E5D3990709CA2DE6BC2E268E945BB94F255FD1BFB15455266"
+  },
+  {
+    "source": "design-md/nvidia/DESIGN.md",
+    "local": "references/nvidia/DESIGN.md",
+    "sha256": "D649BE85DAF075C98A17071E707E3901C6E19150044A81716ACD01EF1169CC83"
+  },
+  {
+    "source": "design-md/ollama/DESIGN.md",
+    "local": "references/ollama/DESIGN.md",
+    "sha256": "3F36F897E5AAD870344DD97E282C8F125AD208DC99449BB08DD38B9259D2F451"
+  },
+  {
+    "source": "design-md/opencode.ai/DESIGN.md",
+    "local": "references/opencode.ai/DESIGN.md",
+    "sha256": "D1A8893C4B8AC90B1E86230EEE2EFFA8BD15ADD3582853477920E32432336DDA"
+  },
+  {
+    "source": "design-md/oracle/DESIGN.md",
+    "local": "references/oracle/DESIGN.md",
+    "sha256": "23F03014C1654FF72E9A2185F1C3D1F3B51EABC8124C14F6DDD51B17A36A85A6"
+  },
+  {
+    "source": "design-md/oura/DESIGN.md",
+    "local": "references/oura/DESIGN.md",
+    "sha256": "8674DBEB48BF7E3FF5271E79A6222084118BA1630DB4A2199D1492568850FA08"
+  },
+  {
+    "source": "design-md/pinterest/DESIGN.md",
+    "local": "references/pinterest/DESIGN.md",
+    "sha256": "26A202FD244E9213D5E2475D81581828DA1DD97E089E44639D9783D04F96E4A8"
+  },
+  {
+    "source": "design-md/playstation/DESIGN.md",
+    "local": "references/playstation/DESIGN.md",
+    "sha256": "2A56C109AF6CB847FA091B768F719B498AC56B582D010860E73EA5FB72A1590D"
+  },
+  {
+    "source": "design-md/posthog/DESIGN.md",
+    "local": "references/posthog/DESIGN.md",
+    "sha256": "01F497F751D56296BFCD5EB8806325A4BB4786D364941EC6E65C65FA9EE6D362"
+  },
+  {
+    "source": "design-md/raycast/DESIGN.md",
+    "local": "references/raycast/DESIGN.md",
+    "sha256": "6E2C5137E4D914B70996D589688374A801B6F29A35C9C019C22ABB5E0170BDA3"
+  },
+  {
+    "source": "design-md/renault/DESIGN.md",
+    "local": "references/renault/DESIGN.md",
+    "sha256": "B343DF9A67E57F248E9EEE704F52B17DFF9CF6A46D1DC9F8D7AB36741940DB59"
+  },
+  {
+    "source": "design-md/replicate/DESIGN.md",
+    "local": "references/replicate/DESIGN.md",
+    "sha256": "C22062D7B4174BF9CED7BC61C48389086CF6EED96A958E098EE70389893B0A15"
+  },
+  {
+    "source": "design-md/resend/DESIGN.md",
+    "local": "references/resend/DESIGN.md",
+    "sha256": "99536F1B2380511A539F7F3466D46D351E4BF35A5AF0C0DF395BDC20AF05C9BE"
+  },
+  {
+    "source": "design-md/revolut/DESIGN.md",
+    "local": "references/revolut/DESIGN.md",
+    "sha256": "B7FA8473315541F5D7E7D76F68A77105D255E6DAE00D31D5EB34621D1D52DE59"
+  },
+  {
+    "source": "design-md/runwayml/DESIGN.md",
+    "local": "references/runwayml/DESIGN.md",
+    "sha256": "B0E69BF643F89BB57AC0B82A3BF025E59FF1478C244CB0528AD1E38B3F80DAC9"
+  },
+  {
+    "source": "design-md/sanity/DESIGN.md",
+    "local": "references/sanity/DESIGN.md",
+    "sha256": "EA1C442DE2B23443F79AF46524A81F33951606C8FF043EA9C25BA886264FBDD8"
+  },
+  {
+    "source": "design-md/sap/DESIGN.md",
+    "local": "references/sap/DESIGN.md",
+    "sha256": "F14C951D6112EFCE488F56D189B9BCDF58F5B9F87AE1E2EE68F062E6A6967D97"
+  },
+  {
+    "source": "design-md/sentry/DESIGN.md",
+    "local": "references/sentry/DESIGN.md",
+    "sha256": "655C91D7D23B5E869A966B7F1B63AE650567AD5D69003CFC64B0EE62C8E02C1F"
+  },
+  {
+    "source": "design-md/shopify/DESIGN.md",
+    "local": "references/shopify/DESIGN.md",
+    "sha256": "495E89B8D0A1848DED013C040F7A2AE62077E9D87FC4385350E25DEE02CCDB38"
+  },
+  {
+    "source": "design-md/slack/DESIGN.md",
+    "local": "references/slack/DESIGN.md",
+    "sha256": "03CB243015A2E11D0FAF05CABA7F3D0C7FDA6839B1F5CE707A23E8D46D1A11BD"
+  },
+  {
+    "source": "design-md/spacex/DESIGN.md",
+    "local": "references/spacex/DESIGN.md",
+    "sha256": "495450C79FAAB54D12D677649CA0A2C30A60F64F536A802E945AD54185C5BAAD"
+  },
+  {
+    "source": "design-md/spotify/DESIGN.md",
+    "local": "references/spotify/DESIGN.md",
+    "sha256": "72E964A6CF551D0603F9854F2F42EE08E97AD4D9E17E037F50F6233508288295"
+  },
+  {
+    "source": "design-md/starbucks/DESIGN.md",
+    "local": "references/starbucks/DESIGN.md",
+    "sha256": "E20338EE10226C63CF2588207288C08E12D60754A53F681657ADAF364DFE8FA7"
+  },
+  {
+    "source": "design-md/stripe/DESIGN.md",
+    "local": "references/stripe/DESIGN.md",
+    "sha256": "5C8806B7DD3E0C2554CCBA9D1E2A7C78E7C6E50E44FCF6FF5DAEA6026F8A9ED9"
+  },
+  {
+    "source": "design-md/supabase/DESIGN.md",
+    "local": "references/supabase/DESIGN.md",
+    "sha256": "F57287D7F44D59E8169DC4B4304FF03C1A2EFB37F5433B9C04460CAAE7710880"
+  },
+  {
+    "source": "design-md/superhuman/DESIGN.md",
+    "local": "references/superhuman/DESIGN.md",
+    "sha256": "3640298BD2957AEE80CE88EB465A7541BA835EC105CBA364A6A621D885C7F34F"
+  },
+  {
+    "source": "design-md/tesla/DESIGN.md",
+    "local": "references/tesla/DESIGN.md",
+    "sha256": "19F2F7E6073D708F46D2512E6BAB3C7C417CF2B4D9F57FF6EC6F2E056EA942B0"
+  },
+  {
+    "source": "design-md/theverge/DESIGN.md",
+    "local": "references/theverge/DESIGN.md",
+    "sha256": "5DA2C3116E6845826B043AC115A80896A399EFDA2CEBC0188981FBA2EF9BB526"
+  },
+  {
+    "source": "design-md/together.ai/DESIGN.md",
+    "local": "references/together.ai/DESIGN.md",
+    "sha256": "AEE472C583F55A2F2C7EE1C403A96DDDADB3FF6DC518335451F431E313BF43CF"
+  },
+  {
+    "source": "design-md/uber/DESIGN.md",
+    "local": "references/uber/DESIGN.md",
+    "sha256": "F30D2257D2D090790332D00CCB16CD2516C3C6008BE61AD2CE83C4E991BCC803"
+  },
+  {
+    "source": "design-md/vercel/DESIGN.md",
+    "local": "references/vercel/DESIGN.md",
+    "sha256": "D0951B93C2B4CE9840C715C9F9B3E58A386C6C58AE5CC0F804DEC3B116B95BD8"
+  },
+  {
+    "source": "design-md/vodafone/DESIGN.md",
+    "local": "references/vodafone/DESIGN.md",
+    "sha256": "293A40951E654283978FA744B24177A159D8F2A60F402BC735BF081618AF0EF6"
+  },
+  {
+    "source": "design-md/voltagent/DESIGN.md",
+    "local": "references/voltagent/DESIGN.md",
+    "sha256": "4457887741AE5E965E205282B03C4BFF83E47DD7A03CD7F38C64623A17569FCD"
+  },
+  {
+    "source": "design-md/warp/DESIGN.md",
+    "local": "references/warp/DESIGN.md",
+    "sha256": "5B1201F7B1B4E72570D148D1F980FD1CB35E6E4122D48DD271787AA3538A25AD"
+  },
+  {
+    "source": "design-md/webflow/DESIGN.md",
+    "local": "references/webflow/DESIGN.md",
+    "sha256": "9230C7B3951371FC2EDC04958962E32BB7EC9A9B703AA6B72EAF5C7991B7C984"
+  },
+  {
+    "source": "design-md/wired/DESIGN.md",
+    "local": "references/wired/DESIGN.md",
+    "sha256": "EB439DCC573401DC30583F40E7EEF8A60B769232DA59E524DE6DCE56D5C3593E"
+  },
+  {
+    "source": "design-md/wise/DESIGN.md",
+    "local": "references/wise/DESIGN.md",
+    "sha256": "442DF0AD7380EFD8712F5574BDCA34A73CFB41A2A43454FF459863A6258AF547"
+  },
+  {
+    "source": "design-md/x.ai/DESIGN.md",
+    "local": "references/x.ai/DESIGN.md",
+    "sha256": "9C9EF45D8C0C3B9A7622833CDFF8BD125ED6BF296A82CC7274215276706E52EB"
+  },
+  {
+    "source": "design-md/zapier/DESIGN.md",
+    "local": "references/zapier/DESIGN.md",
+    "sha256": "9AEE43BA8ECE1B4FD0753B4CAD0A29F3497331882FA376F0DD4FEA8A018C32FC"
+  },
+  {
+    "source": "LICENSE",
+    "local": "LICENSE",
+    "sha256": "6D4BDC9A9CF30E7BEB593475FDCDBF29F981EA6BD7923F202866145409F87B44"
+  }
+]

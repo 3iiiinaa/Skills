@@ -1,0 +1,28 @@
+{
+  "source": "https://github.com/VoltAgent/awesome-design-md",
+  "commit": "3b605329240ce735b510037cca322f1831fdd7f8",
+  "saved_date": "2026-10-23",
+  "display_name": "قواعد ساخت رابط کاربری",
+  "skill_name": "ui-design-rules",
+  "design_documents": 84,
+  "included": [
+    "84 unchanged DESIGN.md documents",
+    "MIT LICENSE",
+    "local SKILL.md wrapper",
+    "local catalog and UI display metadata",
+    "provenance and hash manifests"
+  ],
+  "excluded": [
+    "GitHub workflows",
+    "upstream promotional README files",
+    "CONTRIBUTING.md",
+    ".gitignore"
+  ],
+  "upstream_commands_executed": false,
+  "audit": [
+    "Static extension inventory and suspicious-pattern scan of design references",
+    "npx lint recommendations and curl installation strings retained as inert reference text; execution disallowed by local wrapper",
+    "No executable files copied; no dependencies installed"
+  ],
+  "validation": "Manual structural validation; official quick_validate.py unavailable because bundled Python lacks PyYAML"
+}
