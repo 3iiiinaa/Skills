@@ -1,0 +1,5 @@
+interface:
+  display_name: "مهارت برای بازبینی کد رابط کاربری"
+  short_description: "بازبینی کد UI با قواعد محلی، نسخه ثابت و گزارش محل ایراد"
+policy:
+  allow_implicit_invocation: false

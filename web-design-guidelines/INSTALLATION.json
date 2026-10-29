@@ -1,0 +1,28 @@
+{
+  "saved_date": "2026-10-23",
+  "display_name": "مهارت برای بازبینی کد رابط کاربری",
+  "skill_name": "web-design-guidelines",
+  "scope": "Project-root stored package; not installed globally or in automatic discovery directories",
+  "sources": [
+    {
+      "commit": "063bee94c3f4df8453406c830b0a7df0f2860278",
+      "repository": "https://github.com/vercel-labs/agent-skills",
+      "path": "skills/web-design-guidelines/SKILL.md",
+      "license_note": "No root LICENSE file found in pinned repository tree"
+    },
+    {
+      "license": "MIT; preserved in references/GUIDELINES-LICENSE",
+      "commit": "434b7f91364665f2f733b310ec54809bf8f37937",
+      "repository": "https://github.com/vercel-labs/web-interface-guidelines",
+      "path": "command.md"
+    }
+  ],
+  "adaptations": [
+    "Persian folder and UI display name; original machine name retained",
+    "Automatic remote fetch replaced with pinned local reference",
+    "Read-only review scope and project instruction precedence",
+    "Explicit invocation only; no executable code, hooks or dependencies installed",
+    "Original skill and guideline bytes preserved in references"
+  ],
+  "validation": "Manual structural/frontmatter review and SHA256 comparison; official quick_validate.py unavailable because bundled Python lacks PyYAML"
+}
